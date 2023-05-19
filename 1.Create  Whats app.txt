@@ -2,3 +2,4 @@
 2.Add Chat
 3.Add Keyboard
 4.Add Emoji
+5.Hide Last seen

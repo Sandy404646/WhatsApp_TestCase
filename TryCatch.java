@@ -14,7 +14,7 @@ public class TryCatch {
 			System.out.println("Dont Divide by 0");
 		}
 		System.out.println(5);
-		System.out.println(6);
+		System.out.println(6); //changed
 	}
 
 }

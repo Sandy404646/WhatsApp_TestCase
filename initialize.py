@@ -9,6 +9,7 @@ df = spark.read.csv(input_file, header=True, inferSchema=True)
 
 df.filter(col("firstname")=="John")
 
+## To display
 df.show()
 
 spark.stop()
